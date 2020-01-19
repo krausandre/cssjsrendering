@@ -1,0 +1,23 @@
+{
+    "name": "t3sci/cssjsrendering",
+    "type": "typo3-cms-extension",
+    "description": "Rendering of CSS an JS, only for used content elements and content blocks.",
+    "authors": [],
+    "require": {
+        "typo3/cms-core": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "T3sci\\Cssjsrendering\\": "Classes"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "T3sci\\Cssjsrendering\\Tests\\": "Tests"
+        }
+    },
+    "replace": {
+        "t3sci/cssjsrendering": "self.version",
+        "typo3-ter/cssjsrendering": "self.version"
+    }
+}
