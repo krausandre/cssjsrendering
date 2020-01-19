@@ -14,4 +14,4 @@ A Proove of Concept try of the TYPO3 Structured Content Initiative.
 ## Secondary Ideas
 
 * Concatenation and compress JS and CSS
-* Possibiity to use SCSS, SASS
+* Possibility to use SCSS, SASS
